@@ -66,6 +66,7 @@ Built into Claude Code, published as samples by Anthropic, or listed in Anthropi
 - [cc-arcade](https://github.com/sezaakgun/cc-arcade) - Nine games above the prompt that pause when Claude finishes, plus a pet fed by Claude's tests, commits and edits.
 - [pixelband](https://github.com/furqan-khan07/pixelband) - Animated pixel art or your own image above the prompt, reacting as turns start, finish and fail.
 - [boss-fight](https://github.com/OneWave-AI/claude-code-mods/tree/main/boss-fight) - Failing tests spawn a pixel boss with one hit point per failure, and every run that fixes tests lands a hit.
+- [test-mod](https://github.com/lycfyi/awesome-claude-code-mods) - lowercase start and no period
 
 ## Building Mods
 
