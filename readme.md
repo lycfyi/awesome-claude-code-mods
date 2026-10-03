@@ -39,6 +39,7 @@ Built into Claude Code, published as samples by Anthropic, or listed in Anthropi
 - [prompt-rail](https://github.com/oikon48/prompt-rail) - A rail of the session's prompts beside the transcript, where hovering reads a prompt and clicking jumps to it.
 - [aside](https://github.com/JayDoubleu/aside) - A read-only side chat in a pane, answered by a tool-less fork of the session that writes nothing back to the main thread.
 - [next-steps](https://github.com/anthropics/claude-plugins-community/tree/main/next-steps) - Suggests up to three next prompts above the input after each turn, and a number key drafts one into the prompt box.
+- [harness-scope](https://github.com/shimo4228/harness-scope) - Turns global skills, agents, rules files and tools on or off per repo through named profiles, while each repo's own skills, agents and CLAUDE.md always stay.
 
 ## Git and Code Review
 
