@@ -39,6 +39,7 @@ Built into Claude Code, published as samples by Anthropic, or listed in Anthropi
 - [prompt-rail](https://github.com/oikon48/prompt-rail) - A rail of the session's prompts beside the transcript, where hovering reads a prompt and clicking jumps to it.
 - [aside](https://github.com/JayDoubleu/aside) - A read-only side chat in a pane, answered by a tool-less fork of the session that writes nothing back to the main thread.
 - [next-steps](https://github.com/anthropics/claude-plugins-community/tree/main/next-steps) - Suggests up to three next prompts above the input after each turn, and a number key drafts one into the prompt box.
+- [token-monster](https://github.com/ugglr/claude-token-monster) - A pixel-art pet in a side pane that eats the tokens Claude streams and shows context fill, plan limits and tool activity, with a diet that marks the largest tool results for the next `/compact` to replace.
 
 ## Git and Code Review
 
