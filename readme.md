@@ -59,6 +59,7 @@ Built into Claude Code, published as samples by Anthropic, or listed in Anthropi
 - [agent-flow](https://github.com/Charlie0113-T/claude-agent-flow) - A live tree of the session's subagents and teammates in a pane beside the transcript.
 - [flowpane](https://github.com/mpolatcan/flowpane) - Replaces the workflow progress list with a live phase graph or timeline showing each agent's state, timing and token spend.
 - [terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A web browser inside Claude Code that previews sites and HTML files and that the agent can drive.
+- [automode](https://github.com/mralexivy/AutoMode) - Picks the model and effort for each prompt, shows the route in a band above the prompt, and requires an Opus review for risky changes.
 
 ## Just for Fun
 
